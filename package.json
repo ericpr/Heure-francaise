@@ -1,0 +1,35 @@
+{
+    "author": "Roundworld SARL",
+    "dependencies": {},
+    "keywords": [],
+    "name": "heure-proche",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Heure approximative",
+        "enableMultiJS": false,
+        "messageKeys": {},
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/menu_icon_fuzzy_watch.png",
+                    "menuIcon": true,
+                    "name": "IMAGE_MENU_ICON",
+                    "type": "png"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "19c5d625-de32-42d1-ab4a-7d08edd471dc",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
