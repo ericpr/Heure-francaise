@@ -1,0 +1,1439 @@
+0:0 -> minuit
+0:1 -> minuit
+0:2 -> minuit
+0:3 -> minuit cinq
+0:4 -> minuit cinq
+0:5 -> minuit cinq
+0:6 -> minuit cinq
+0:7 -> minuit cinq
+0:8 -> minuit dix
+0:9 -> minuit dix
+0:10 -> minuit dix
+0:11 -> minuit dix
+0:12 -> minuit dix
+0:13 -> minuit et quart
+0:14 -> minuit et quart
+0:15 -> minuit et quart
+0:16 -> minuit et quart
+0:17 -> minuit et quart
+0:18 -> minuit vingt
+0:19 -> minuit vingt
+0:20 -> minuit vingt
+0:21 -> minuit vingt
+0:22 -> minuit vingt
+0:23 -> minuit vingt cinq
+0:24 -> minuit vingt cinq
+0:25 -> minuit vingt cinq
+0:26 -> minuit vingt cinq
+0:27 -> minuit vingt cinq
+0:28 -> minuit et demie
+0:29 -> minuit et demie
+0:30 -> minuit et demie
+0:31 -> minuit et demie
+0:32 -> minuit et demie
+0:33 -> une heure moins vingt cinq
+0:34 -> une heure moins vingt cinq
+0:35 -> une heure moins vingt cinq
+0:36 -> une heure moins vingt cinq
+0:37 -> une heure moins vingt cinq
+0:38 -> une heure moins vingt
+0:39 -> une heure moins vingt
+0:40 -> une heure moins vingt
+0:41 -> une heure moins vingt
+0:42 -> une heure moins vingt
+0:43 -> une heure moins le quart
+0:44 -> une heure moins le quart
+0:45 -> une heure moins le quart
+0:46 -> une heure moins le quart
+0:47 -> une heure moins le quart
+0:48 -> une heure moins dix
+0:49 -> une heure moins dix
+0:50 -> une heure moins dix
+0:51 -> une heure moins dix
+0:52 -> une heure moins dix
+0:53 -> une heure moins cinq
+0:54 -> une heure moins cinq
+0:55 -> une heure moins cinq
+0:56 -> une heure moins cinq
+0:57 -> une heure moins cinq
+0:58 -> une heure
+0:59 -> une heure
+1:0 -> une heure
+1:1 -> une heure
+1:2 -> une heure
+1:3 -> une heure cinq
+1:4 -> une heure cinq
+1:5 -> une heure cinq
+1:6 -> une heure cinq
+1:7 -> une heure cinq
+1:8 -> une heure dix
+1:9 -> une heure dix
+1:10 -> une heure dix
+1:11 -> une heure dix
+1:12 -> une heure dix
+1:13 -> une heure et quart
+1:14 -> une heure et quart
+1:15 -> une heure et quart
+1:16 -> une heure et quart
+1:17 -> une heure et quart
+1:18 -> une heure vingt
+1:19 -> une heure vingt
+1:20 -> une heure vingt
+1:21 -> une heure vingt
+1:22 -> une heure vingt
+1:23 -> une heure vingt cinq
+1:24 -> une heure vingt cinq
+1:25 -> une heure vingt cinq
+1:26 -> une heure vingt cinq
+1:27 -> une heure vingt cinq
+1:28 -> une heure et demie
+1:29 -> une heure et demie
+1:30 -> une heure et demie
+1:31 -> une heure et demie
+1:32 -> une heure et demie
+1:33 -> deux heures moins vingt cinq
+1:34 -> deux heures moins vingt cinq
+1:35 -> deux heures moins vingt cinq
+1:36 -> deux heures moins vingt cinq
+1:37 -> deux heures moins vingt cinq
+1:38 -> deux heures moins vingt
+1:39 -> deux heures moins vingt
+1:40 -> deux heures moins vingt
+1:41 -> deux heures moins vingt
+1:42 -> deux heures moins vingt
+1:43 -> deux heures moins le quart
+1:44 -> deux heures moins le quart
+1:45 -> deux heures moins le quart
+1:46 -> deux heures moins le quart
+1:47 -> deux heures moins le quart
+1:48 -> deux heures moins dix
+1:49 -> deux heures moins dix
+1:50 -> deux heures moins dix
+1:51 -> deux heures moins dix
+1:52 -> deux heures moins dix
+1:53 -> deux heures moins cinq
+1:54 -> deux heures moins cinq
+1:55 -> deux heures moins cinq
+1:56 -> deux heures moins cinq
+1:57 -> deux heures moins cinq
+1:58 -> deux heures
+1:59 -> deux heures
+2:0 -> deux heures
+2:1 -> deux heures
+2:2 -> deux heures
+2:3 -> deux heures cinq
+2:4 -> deux heures cinq
+2:5 -> deux heures cinq
+2:6 -> deux heures cinq
+2:7 -> deux heures cinq
+2:8 -> deux heures dix
+2:9 -> deux heures dix
+2:10 -> deux heures dix
+2:11 -> deux heures dix
+2:12 -> deux heures dix
+2:13 -> deux heures et quart
+2:14 -> deux heures et quart
+2:15 -> deux heures et quart
+2:16 -> deux heures et quart
+2:17 -> deux heures et quart
+2:18 -> deux heures vingt
+2:19 -> deux heures vingt
+2:20 -> deux heures vingt
+2:21 -> deux heures vingt
+2:22 -> deux heures vingt
+2:23 -> deux heures vingt cinq
+2:24 -> deux heures vingt cinq
+2:25 -> deux heures vingt cinq
+2:26 -> deux heures vingt cinq
+2:27 -> deux heures vingt cinq
+2:28 -> deux heures et demie
+2:29 -> deux heures et demie
+2:30 -> deux heures et demie
+2:31 -> deux heures et demie
+2:32 -> deux heures et demie
+2:33 -> trois heures moins vingt cinq
+2:34 -> trois heures moins vingt cinq
+2:35 -> trois heures moins vingt cinq
+2:36 -> trois heures moins vingt cinq
+2:37 -> trois heures moins vingt cinq
+2:38 -> trois heures moins vingt
+2:39 -> trois heures moins vingt
+2:40 -> trois heures moins vingt
+2:41 -> trois heures moins vingt
+2:42 -> trois heures moins vingt
+2:43 -> trois heures moins le quart
+2:44 -> trois heures moins le quart
+2:45 -> trois heures moins le quart
+2:46 -> trois heures moins le quart
+2:47 -> trois heures moins le quart
+2:48 -> trois heures moins dix
+2:49 -> trois heures moins dix
+2:50 -> trois heures moins dix
+2:51 -> trois heures moins dix
+2:52 -> trois heures moins dix
+2:53 -> trois heures moins cinq
+2:54 -> trois heures moins cinq
+2:55 -> trois heures moins cinq
+2:56 -> trois heures moins cinq
+2:57 -> trois heures moins cinq
+2:58 -> trois heures
+2:59 -> trois heures
+3:0 -> trois heures
+3:1 -> trois heures
+3:2 -> trois heures
+3:3 -> trois heures cinq
+3:4 -> trois heures cinq
+3:5 -> trois heures cinq
+3:6 -> trois heures cinq
+3:7 -> trois heures cinq
+3:8 -> trois heures dix
+3:9 -> trois heures dix
+3:10 -> trois heures dix
+3:11 -> trois heures dix
+3:12 -> trois heures dix
+3:13 -> trois heures et quart
+3:14 -> trois heures et quart
+3:15 -> trois heures et quart
+3:16 -> trois heures et quart
+3:17 -> trois heures et quart
+3:18 -> trois heures vingt
+3:19 -> trois heures vingt
+3:20 -> trois heures vingt
+3:21 -> trois heures vingt
+3:22 -> trois heures vingt
+3:23 -> trois heures vingt cinq
+3:24 -> trois heures vingt cinq
+3:25 -> trois heures vingt cinq
+3:26 -> trois heures vingt cinq
+3:27 -> trois heures vingt cinq
+3:28 -> trois heures et demie
+3:29 -> trois heures et demie
+3:30 -> trois heures et demie
+3:31 -> trois heures et demie
+3:32 -> trois heures et demie
+3:33 -> quatre heures moins vingt cinq
+3:34 -> quatre heures moins vingt cinq
+3:35 -> quatre heures moins vingt cinq
+3:36 -> quatre heures moins vingt cinq
+3:37 -> quatre heures moins vingt cinq
+3:38 -> quatre heures moins vingt
+3:39 -> quatre heures moins vingt
+3:40 -> quatre heures moins vingt
+3:41 -> quatre heures moins vingt
+3:42 -> quatre heures moins vingt
+3:43 -> quatre heures moins le quart
+3:44 -> quatre heures moins le quart
+3:45 -> quatre heures moins le quart
+3:46 -> quatre heures moins le quart
+3:47 -> quatre heures moins le quart
+3:48 -> quatre heures moins dix
+3:49 -> quatre heures moins dix
+3:50 -> quatre heures moins dix
+3:51 -> quatre heures moins dix
+3:52 -> quatre heures moins dix
+3:53 -> quatre heures moins cinq
+3:54 -> quatre heures moins cinq
+3:55 -> quatre heures moins cinq
+3:56 -> quatre heures moins cinq
+3:57 -> quatre heures moins cinq
+3:58 -> quatre heures
+3:59 -> quatre heures
+4:0 -> quatre heures
+4:1 -> quatre heures
+4:2 -> quatre heures
+4:3 -> quatre heures cinq
+4:4 -> quatre heures cinq
+4:5 -> quatre heures cinq
+4:6 -> quatre heures cinq
+4:7 -> quatre heures cinq
+4:8 -> quatre heures dix
+4:9 -> quatre heures dix
+4:10 -> quatre heures dix
+4:11 -> quatre heures dix
+4:12 -> quatre heures dix
+4:13 -> quatre heures et quart
+4:14 -> quatre heures et quart
+4:15 -> quatre heures et quart
+4:16 -> quatre heures et quart
+4:17 -> quatre heures et quart
+4:18 -> quatre heures vingt
+4:19 -> quatre heures vingt
+4:20 -> quatre heures vingt
+4:21 -> quatre heures vingt
+4:22 -> quatre heures vingt
+4:23 -> quatre heures vingt cinq
+4:24 -> quatre heures vingt cinq
+4:25 -> quatre heures vingt cinq
+4:26 -> quatre heures vingt cinq
+4:27 -> quatre heures vingt cinq
+4:28 -> quatre heures et demie
+4:29 -> quatre heures et demie
+4:30 -> quatre heures et demie
+4:31 -> quatre heures et demie
+4:32 -> quatre heures et demie
+4:33 -> cinq heures moins vingt cinq
+4:34 -> cinq heures moins vingt cinq
+4:35 -> cinq heures moins vingt cinq
+4:36 -> cinq heures moins vingt cinq
+4:37 -> cinq heures moins vingt cinq
+4:38 -> cinq heures moins vingt
+4:39 -> cinq heures moins vingt
+4:40 -> cinq heures moins vingt
+4:41 -> cinq heures moins vingt
+4:42 -> cinq heures moins vingt
+4:43 -> cinq heures moins le quart
+4:44 -> cinq heures moins le quart
+4:45 -> cinq heures moins le quart
+4:46 -> cinq heures moins le quart
+4:47 -> cinq heures moins le quart
+4:48 -> cinq heures moins dix
+4:49 -> cinq heures moins dix
+4:50 -> cinq heures moins dix
+4:51 -> cinq heures moins dix
+4:52 -> cinq heures moins dix
+4:53 -> cinq heures moins cinq
+4:54 -> cinq heures moins cinq
+4:55 -> cinq heures moins cinq
+4:56 -> cinq heures moins cinq
+4:57 -> cinq heures moins cinq
+4:58 -> cinq heures
+4:59 -> cinq heures
+5:0 -> cinq heures
+5:1 -> cinq heures
+5:2 -> cinq heures
+5:3 -> cinq heures cinq
+5:4 -> cinq heures cinq
+5:5 -> cinq heures cinq
+5:6 -> cinq heures cinq
+5:7 -> cinq heures cinq
+5:8 -> cinq heures dix
+5:9 -> cinq heures dix
+5:10 -> cinq heures dix
+5:11 -> cinq heures dix
+5:12 -> cinq heures dix
+5:13 -> cinq heures et quart
+5:14 -> cinq heures et quart
+5:15 -> cinq heures et quart
+5:16 -> cinq heures et quart
+5:17 -> cinq heures et quart
+5:18 -> cinq heures vingt
+5:19 -> cinq heures vingt
+5:20 -> cinq heures vingt
+5:21 -> cinq heures vingt
+5:22 -> cinq heures vingt
+5:23 -> cinq heures vingt cinq
+5:24 -> cinq heures vingt cinq
+5:25 -> cinq heures vingt cinq
+5:26 -> cinq heures vingt cinq
+5:27 -> cinq heures vingt cinq
+5:28 -> cinq heures et demie
+5:29 -> cinq heures et demie
+5:30 -> cinq heures et demie
+5:31 -> cinq heures et demie
+5:32 -> cinq heures et demie
+5:33 -> six heures moins vingt cinq
+5:34 -> six heures moins vingt cinq
+5:35 -> six heures moins vingt cinq
+5:36 -> six heures moins vingt cinq
+5:37 -> six heures moins vingt cinq
+5:38 -> six heures moins vingt
+5:39 -> six heures moins vingt
+5:40 -> six heures moins vingt
+5:41 -> six heures moins vingt
+5:42 -> six heures moins vingt
+5:43 -> six heures moins le quart
+5:44 -> six heures moins le quart
+5:45 -> six heures moins le quart
+5:46 -> six heures moins le quart
+5:47 -> six heures moins le quart
+5:48 -> six heures moins dix
+5:49 -> six heures moins dix
+5:50 -> six heures moins dix
+5:51 -> six heures moins dix
+5:52 -> six heures moins dix
+5:53 -> six heures moins cinq
+5:54 -> six heures moins cinq
+5:55 -> six heures moins cinq
+5:56 -> six heures moins cinq
+5:57 -> six heures moins cinq
+5:58 -> six heures
+5:59 -> six heures
+6:0 -> six heures
+6:1 -> six heures
+6:2 -> six heures
+6:3 -> six heures cinq
+6:4 -> six heures cinq
+6:5 -> six heures cinq
+6:6 -> six heures cinq
+6:7 -> six heures cinq
+6:8 -> six heures dix
+6:9 -> six heures dix
+6:10 -> six heures dix
+6:11 -> six heures dix
+6:12 -> six heures dix
+6:13 -> six heures et quart
+6:14 -> six heures et quart
+6:15 -> six heures et quart
+6:16 -> six heures et quart
+6:17 -> six heures et quart
+6:18 -> six heures vingt
+6:19 -> six heures vingt
+6:20 -> six heures vingt
+6:21 -> six heures vingt
+6:22 -> six heures vingt
+6:23 -> six heures vingt cinq
+6:24 -> six heures vingt cinq
+6:25 -> six heures vingt cinq
+6:26 -> six heures vingt cinq
+6:27 -> six heures vingt cinq
+6:28 -> six heures et demie
+6:29 -> six heures et demie
+6:30 -> six heures et demie
+6:31 -> six heures et demie
+6:32 -> six heures et demie
+6:33 -> sept heures moins vingt cinq
+6:34 -> sept heures moins vingt cinq
+6:35 -> sept heures moins vingt cinq
+6:36 -> sept heures moins vingt cinq
+6:37 -> sept heures moins vingt cinq
+6:38 -> sept heures moins vingt
+6:39 -> sept heures moins vingt
+6:40 -> sept heures moins vingt
+6:41 -> sept heures moins vingt
+6:42 -> sept heures moins vingt
+6:43 -> sept heures moins le quart
+6:44 -> sept heures moins le quart
+6:45 -> sept heures moins le quart
+6:46 -> sept heures moins le quart
+6:47 -> sept heures moins le quart
+6:48 -> sept heures moins dix
+6:49 -> sept heures moins dix
+6:50 -> sept heures moins dix
+6:51 -> sept heures moins dix
+6:52 -> sept heures moins dix
+6:53 -> sept heures moins cinq
+6:54 -> sept heures moins cinq
+6:55 -> sept heures moins cinq
+6:56 -> sept heures moins cinq
+6:57 -> sept heures moins cinq
+6:58 -> sept heures
+6:59 -> sept heures
+7:0 -> sept heures
+7:1 -> sept heures
+7:2 -> sept heures
+7:3 -> sept heures cinq
+7:4 -> sept heures cinq
+7:5 -> sept heures cinq
+7:6 -> sept heures cinq
+7:7 -> sept heures cinq
+7:8 -> sept heures dix
+7:9 -> sept heures dix
+7:10 -> sept heures dix
+7:11 -> sept heures dix
+7:12 -> sept heures dix
+7:13 -> sept heures et quart
+7:14 -> sept heures et quart
+7:15 -> sept heures et quart
+7:16 -> sept heures et quart
+7:17 -> sept heures et quart
+7:18 -> sept heures vingt
+7:19 -> sept heures vingt
+7:20 -> sept heures vingt
+7:21 -> sept heures vingt
+7:22 -> sept heures vingt
+7:23 -> sept heures vingt cinq
+7:24 -> sept heures vingt cinq
+7:25 -> sept heures vingt cinq
+7:26 -> sept heures vingt cinq
+7:27 -> sept heures vingt cinq
+7:28 -> sept heures et demie
+7:29 -> sept heures et demie
+7:30 -> sept heures et demie
+7:31 -> sept heures et demie
+7:32 -> sept heures et demie
+7:33 -> huit heures moins vingt cinq
+7:34 -> huit heures moins vingt cinq
+7:35 -> huit heures moins vingt cinq
+7:36 -> huit heures moins vingt cinq
+7:37 -> huit heures moins vingt cinq
+7:38 -> huit heures moins vingt
+7:39 -> huit heures moins vingt
+7:40 -> huit heures moins vingt
+7:41 -> huit heures moins vingt
+7:42 -> huit heures moins vingt
+7:43 -> huit heures moins le quart
+7:44 -> huit heures moins le quart
+7:45 -> huit heures moins le quart
+7:46 -> huit heures moins le quart
+7:47 -> huit heures moins le quart
+7:48 -> huit heures moins dix
+7:49 -> huit heures moins dix
+7:50 -> huit heures moins dix
+7:51 -> huit heures moins dix
+7:52 -> huit heures moins dix
+7:53 -> huit heures moins cinq
+7:54 -> huit heures moins cinq
+7:55 -> huit heures moins cinq
+7:56 -> huit heures moins cinq
+7:57 -> huit heures moins cinq
+7:58 -> huit heures
+7:59 -> huit heures
+8:0 -> huit heures
+8:1 -> huit heures
+8:2 -> huit heures
+8:3 -> huit heures cinq
+8:4 -> huit heures cinq
+8:5 -> huit heures cinq
+8:6 -> huit heures cinq
+8:7 -> huit heures cinq
+8:8 -> huit heures dix
+8:9 -> huit heures dix
+8:10 -> huit heures dix
+8:11 -> huit heures dix
+8:12 -> huit heures dix
+8:13 -> huit heures et quart
+8:14 -> huit heures et quart
+8:15 -> huit heures et quart
+8:16 -> huit heures et quart
+8:17 -> huit heures et quart
+8:18 -> huit heures vingt
+8:19 -> huit heures vingt
+8:20 -> huit heures vingt
+8:21 -> huit heures vingt
+8:22 -> huit heures vingt
+8:23 -> huit heures vingt cinq
+8:24 -> huit heures vingt cinq
+8:25 -> huit heures vingt cinq
+8:26 -> huit heures vingt cinq
+8:27 -> huit heures vingt cinq
+8:28 -> huit heures et demie
+8:29 -> huit heures et demie
+8:30 -> huit heures et demie
+8:31 -> huit heures et demie
+8:32 -> huit heures et demie
+8:33 -> neuf heures moins vingt cinq
+8:34 -> neuf heures moins vingt cinq
+8:35 -> neuf heures moins vingt cinq
+8:36 -> neuf heures moins vingt cinq
+8:37 -> neuf heures moins vingt cinq
+8:38 -> neuf heures moins vingt
+8:39 -> neuf heures moins vingt
+8:40 -> neuf heures moins vingt
+8:41 -> neuf heures moins vingt
+8:42 -> neuf heures moins vingt
+8:43 -> neuf heures moins le quart
+8:44 -> neuf heures moins le quart
+8:45 -> neuf heures moins le quart
+8:46 -> neuf heures moins le quart
+8:47 -> neuf heures moins le quart
+8:48 -> neuf heures moins dix
+8:49 -> neuf heures moins dix
+8:50 -> neuf heures moins dix
+8:51 -> neuf heures moins dix
+8:52 -> neuf heures moins dix
+8:53 -> neuf heures moins cinq
+8:54 -> neuf heures moins cinq
+8:55 -> neuf heures moins cinq
+8:56 -> neuf heures moins cinq
+8:57 -> neuf heures moins cinq
+8:58 -> neuf heures
+8:59 -> neuf heures
+9:0 -> neuf heures
+9:1 -> neuf heures
+9:2 -> neuf heures
+9:3 -> neuf heures cinq
+9:4 -> neuf heures cinq
+9:5 -> neuf heures cinq
+9:6 -> neuf heures cinq
+9:7 -> neuf heures cinq
+9:8 -> neuf heures dix
+9:9 -> neuf heures dix
+9:10 -> neuf heures dix
+9:11 -> neuf heures dix
+9:12 -> neuf heures dix
+9:13 -> neuf heures et quart
+9:14 -> neuf heures et quart
+9:15 -> neuf heures et quart
+9:16 -> neuf heures et quart
+9:17 -> neuf heures et quart
+9:18 -> neuf heures vingt
+9:19 -> neuf heures vingt
+9:20 -> neuf heures vingt
+9:21 -> neuf heures vingt
+9:22 -> neuf heures vingt
+9:23 -> neuf heures vingt cinq
+9:24 -> neuf heures vingt cinq
+9:25 -> neuf heures vingt cinq
+9:26 -> neuf heures vingt cinq
+9:27 -> neuf heures vingt cinq
+9:28 -> neuf heures et demie
+9:29 -> neuf heures et demie
+9:30 -> neuf heures et demie
+9:31 -> neuf heures et demie
+9:32 -> neuf heures et demie
+9:33 -> dix heures moins vingt cinq
+9:34 -> dix heures moins vingt cinq
+9:35 -> dix heures moins vingt cinq
+9:36 -> dix heures moins vingt cinq
+9:37 -> dix heures moins vingt cinq
+9:38 -> dix heures moins vingt
+9:39 -> dix heures moins vingt
+9:40 -> dix heures moins vingt
+9:41 -> dix heures moins vingt
+9:42 -> dix heures moins vingt
+9:43 -> dix heures moins le quart
+9:44 -> dix heures moins le quart
+9:45 -> dix heures moins le quart
+9:46 -> dix heures moins le quart
+9:47 -> dix heures moins le quart
+9:48 -> dix heures moins dix
+9:49 -> dix heures moins dix
+9:50 -> dix heures moins dix
+9:51 -> dix heures moins dix
+9:52 -> dix heures moins dix
+9:53 -> dix heures moins cinq
+9:54 -> dix heures moins cinq
+9:55 -> dix heures moins cinq
+9:56 -> dix heures moins cinq
+9:57 -> dix heures moins cinq
+9:58 -> dix heures
+9:59 -> dix heures
+10:0 -> dix heures
+10:1 -> dix heures
+10:2 -> dix heures
+10:3 -> dix heures cinq
+10:4 -> dix heures cinq
+10:5 -> dix heures cinq
+10:6 -> dix heures cinq
+10:7 -> dix heures cinq
+10:8 -> dix heures dix
+10:9 -> dix heures dix
+10:10 -> dix heures dix
+10:11 -> dix heures dix
+10:12 -> dix heures dix
+10:13 -> dix heures et quart
+10:14 -> dix heures et quart
+10:15 -> dix heures et quart
+10:16 -> dix heures et quart
+10:17 -> dix heures et quart
+10:18 -> dix heures vingt
+10:19 -> dix heures vingt
+10:20 -> dix heures vingt
+10:21 -> dix heures vingt
+10:22 -> dix heures vingt
+10:23 -> dix heures vingt cinq
+10:24 -> dix heures vingt cinq
+10:25 -> dix heures vingt cinq
+10:26 -> dix heures vingt cinq
+10:27 -> dix heures vingt cinq
+10:28 -> dix heures et demie
+10:29 -> dix heures et demie
+10:30 -> dix heures et demie
+10:31 -> dix heures et demie
+10:32 -> dix heures et demie
+10:33 -> onze heures moins vingt cinq
+10:34 -> onze heures moins vingt cinq
+10:35 -> onze heures moins vingt cinq
+10:36 -> onze heures moins vingt cinq
+10:37 -> onze heures moins vingt cinq
+10:38 -> onze heures moins vingt
+10:39 -> onze heures moins vingt
+10:40 -> onze heures moins vingt
+10:41 -> onze heures moins vingt
+10:42 -> onze heures moins vingt
+10:43 -> onze heures moins le quart
+10:44 -> onze heures moins le quart
+10:45 -> onze heures moins le quart
+10:46 -> onze heures moins le quart
+10:47 -> onze heures moins le quart
+10:48 -> onze heures moins dix
+10:49 -> onze heures moins dix
+10:50 -> onze heures moins dix
+10:51 -> onze heures moins dix
+10:52 -> onze heures moins dix
+10:53 -> onze heures moins cinq
+10:54 -> onze heures moins cinq
+10:55 -> onze heures moins cinq
+10:56 -> onze heures moins cinq
+10:57 -> onze heures moins cinq
+10:58 -> onze heures
+10:59 -> onze heures
+11:0 -> onze heures
+11:1 -> onze heures
+11:2 -> onze heures
+11:3 -> onze heures cinq
+11:4 -> onze heures cinq
+11:5 -> onze heures cinq
+11:6 -> onze heures cinq
+11:7 -> onze heures cinq
+11:8 -> onze heures dix
+11:9 -> onze heures dix
+11:10 -> onze heures dix
+11:11 -> onze heures dix
+11:12 -> onze heures dix
+11:13 -> onze heures et quart
+11:14 -> onze heures et quart
+11:15 -> onze heures et quart
+11:16 -> onze heures et quart
+11:17 -> onze heures et quart
+11:18 -> onze heures vingt
+11:19 -> onze heures vingt
+11:20 -> onze heures vingt
+11:21 -> onze heures vingt
+11:22 -> onze heures vingt
+11:23 -> onze heures vingt cinq
+11:24 -> onze heures vingt cinq
+11:25 -> onze heures vingt cinq
+11:26 -> onze heures vingt cinq
+11:27 -> onze heures vingt cinq
+11:28 -> onze heures et demie
+11:29 -> onze heures et demie
+11:30 -> onze heures et demie
+11:31 -> onze heures et demie
+11:32 -> onze heures et demie
+11:33 -> midi moins vingt cinq
+11:34 -> midi moins vingt cinq
+11:35 -> midi moins vingt cinq
+11:36 -> midi moins vingt cinq
+11:37 -> midi moins vingt cinq
+11:38 -> midi moins vingt
+11:39 -> midi moins vingt
+11:40 -> midi moins vingt
+11:41 -> midi moins vingt
+11:42 -> midi moins vingt
+11:43 -> midi moins le quart
+11:44 -> midi moins le quart
+11:45 -> midi moins le quart
+11:46 -> midi moins le quart
+11:47 -> midi moins le quart
+11:48 -> midi moins dix
+11:49 -> midi moins dix
+11:50 -> midi moins dix
+11:51 -> midi moins dix
+11:52 -> midi moins dix
+11:53 -> midi moins cinq
+11:54 -> midi moins cinq
+11:55 -> midi moins cinq
+11:56 -> midi moins cinq
+11:57 -> midi moins cinq
+11:58 -> midi
+11:59 -> midi
+12:0 -> midi
+12:1 -> midi
+12:2 -> midi
+12:3 -> midi cinq
+12:4 -> midi cinq
+12:5 -> midi cinq
+12:6 -> midi cinq
+12:7 -> midi cinq
+12:8 -> midi dix
+12:9 -> midi dix
+12:10 -> midi dix
+12:11 -> midi dix
+12:12 -> midi dix
+12:13 -> midi et quart
+12:14 -> midi et quart
+12:15 -> midi et quart
+12:16 -> midi et quart
+12:17 -> midi et quart
+12:18 -> midi vingt
+12:19 -> midi vingt
+12:20 -> midi vingt
+12:21 -> midi vingt
+12:22 -> midi vingt
+12:23 -> midi vingt cinq
+12:24 -> midi vingt cinq
+12:25 -> midi vingt cinq
+12:26 -> midi vingt cinq
+12:27 -> midi vingt cinq
+12:28 -> midi et demie
+12:29 -> midi et demie
+12:30 -> midi et demie
+12:31 -> midi et demie
+12:32 -> midi et demie
+12:33 -> une heures moins vingt cinq
+12:34 -> une heures moins vingt cinq
+12:35 -> une heures moins vingt cinq
+12:36 -> une heures moins vingt cinq
+12:37 -> une heures moins vingt cinq
+12:38 -> une heures moins vingt
+12:39 -> une heures moins vingt
+12:40 -> une heures moins vingt
+12:41 -> une heures moins vingt
+12:42 -> une heures moins vingt
+12:43 -> une heures moins le quart
+12:44 -> une heures moins le quart
+12:45 -> une heures moins le quart
+12:46 -> une heures moins le quart
+12:47 -> une heures moins le quart
+12:48 -> une heures moins dix
+12:49 -> une heures moins dix
+12:50 -> une heures moins dix
+12:51 -> une heures moins dix
+12:52 -> une heures moins dix
+12:53 -> une heures moins cinq
+12:54 -> une heures moins cinq
+12:55 -> une heures moins cinq
+12:56 -> une heures moins cinq
+12:57 -> une heures moins cinq
+12:58 -> une heures
+12:59 -> une heures
+13:0 -> une heures
+13:1 -> une heures
+13:2 -> une heures
+13:3 -> une heures cinq
+13:4 -> une heures cinq
+13:5 -> une heures cinq
+13:6 -> une heures cinq
+13:7 -> une heures cinq
+13:8 -> une heures dix
+13:9 -> une heures dix
+13:10 -> une heures dix
+13:11 -> une heures dix
+13:12 -> une heures dix
+13:13 -> une heures et quart
+13:14 -> une heures et quart
+13:15 -> une heures et quart
+13:16 -> une heures et quart
+13:17 -> une heures et quart
+13:18 -> une heures vingt
+13:19 -> une heures vingt
+13:20 -> une heures vingt
+13:21 -> une heures vingt
+13:22 -> une heures vingt
+13:23 -> une heures vingt cinq
+13:24 -> une heures vingt cinq
+13:25 -> une heures vingt cinq
+13:26 -> une heures vingt cinq
+13:27 -> une heures vingt cinq
+13:28 -> une heures et demie
+13:29 -> une heures et demie
+13:30 -> une heures et demie
+13:31 -> une heures et demie
+13:32 -> une heures et demie
+13:33 -> deux heures moins vingt cinq
+13:34 -> deux heures moins vingt cinq
+13:35 -> deux heures moins vingt cinq
+13:36 -> deux heures moins vingt cinq
+13:37 -> deux heures moins vingt cinq
+13:38 -> deux heures moins vingt
+13:39 -> deux heures moins vingt
+13:40 -> deux heures moins vingt
+13:41 -> deux heures moins vingt
+13:42 -> deux heures moins vingt
+13:43 -> deux heures moins le quart
+13:44 -> deux heures moins le quart
+13:45 -> deux heures moins le quart
+13:46 -> deux heures moins le quart
+13:47 -> deux heures moins le quart
+13:48 -> deux heures moins dix
+13:49 -> deux heures moins dix
+13:50 -> deux heures moins dix
+13:51 -> deux heures moins dix
+13:52 -> deux heures moins dix
+13:53 -> deux heures moins cinq
+13:54 -> deux heures moins cinq
+13:55 -> deux heures moins cinq
+13:56 -> deux heures moins cinq
+13:57 -> deux heures moins cinq
+13:58 -> deux heures
+13:59 -> deux heures
+14:0 -> deux heures
+14:1 -> deux heures
+14:2 -> deux heures
+14:3 -> deux heures cinq
+14:4 -> deux heures cinq
+14:5 -> deux heures cinq
+14:6 -> deux heures cinq
+14:7 -> deux heures cinq
+14:8 -> deux heures dix
+14:9 -> deux heures dix
+14:10 -> deux heures dix
+14:11 -> deux heures dix
+14:12 -> deux heures dix
+14:13 -> deux heures et quart
+14:14 -> deux heures et quart
+14:15 -> deux heures et quart
+14:16 -> deux heures et quart
+14:17 -> deux heures et quart
+14:18 -> deux heures vingt
+14:19 -> deux heures vingt
+14:20 -> deux heures vingt
+14:21 -> deux heures vingt
+14:22 -> deux heures vingt
+14:23 -> deux heures vingt cinq
+14:24 -> deux heures vingt cinq
+14:25 -> deux heures vingt cinq
+14:26 -> deux heures vingt cinq
+14:27 -> deux heures vingt cinq
+14:28 -> deux heures et demie
+14:29 -> deux heures et demie
+14:30 -> deux heures et demie
+14:31 -> deux heures et demie
+14:32 -> deux heures et demie
+14:33 -> trois heures moins vingt cinq
+14:34 -> trois heures moins vingt cinq
+14:35 -> trois heures moins vingt cinq
+14:36 -> trois heures moins vingt cinq
+14:37 -> trois heures moins vingt cinq
+14:38 -> trois heures moins vingt
+14:39 -> trois heures moins vingt
+14:40 -> trois heures moins vingt
+14:41 -> trois heures moins vingt
+14:42 -> trois heures moins vingt
+14:43 -> trois heures moins le quart
+14:44 -> trois heures moins le quart
+14:45 -> trois heures moins le quart
+14:46 -> trois heures moins le quart
+14:47 -> trois heures moins le quart
+14:48 -> trois heures moins dix
+14:49 -> trois heures moins dix
+14:50 -> trois heures moins dix
+14:51 -> trois heures moins dix
+14:52 -> trois heures moins dix
+14:53 -> trois heures moins cinq
+14:54 -> trois heures moins cinq
+14:55 -> trois heures moins cinq
+14:56 -> trois heures moins cinq
+14:57 -> trois heures moins cinq
+14:58 -> trois heures
+14:59 -> trois heures
+15:0 -> trois heures
+15:1 -> trois heures
+15:2 -> trois heures
+15:3 -> trois heures cinq
+15:4 -> trois heures cinq
+15:5 -> trois heures cinq
+15:6 -> trois heures cinq
+15:7 -> trois heures cinq
+15:8 -> trois heures dix
+15:9 -> trois heures dix
+15:10 -> trois heures dix
+15:11 -> trois heures dix
+15:12 -> trois heures dix
+15:13 -> trois heures et quart
+15:14 -> trois heures et quart
+15:15 -> trois heures et quart
+15:16 -> trois heures et quart
+15:17 -> trois heures et quart
+15:18 -> trois heures vingt
+15:19 -> trois heures vingt
+15:20 -> trois heures vingt
+15:21 -> trois heures vingt
+15:22 -> trois heures vingt
+15:23 -> trois heures vingt cinq
+15:24 -> trois heures vingt cinq
+15:25 -> trois heures vingt cinq
+15:26 -> trois heures vingt cinq
+15:27 -> trois heures vingt cinq
+15:28 -> trois heures et demie
+15:29 -> trois heures et demie
+15:30 -> trois heures et demie
+15:31 -> trois heures et demie
+15:32 -> trois heures et demie
+15:33 -> quatre heures moins vingt cinq
+15:34 -> quatre heures moins vingt cinq
+15:35 -> quatre heures moins vingt cinq
+15:36 -> quatre heures moins vingt cinq
+15:37 -> quatre heures moins vingt cinq
+15:38 -> quatre heures moins vingt
+15:39 -> quatre heures moins vingt
+15:40 -> quatre heures moins vingt
+15:41 -> quatre heures moins vingt
+15:42 -> quatre heures moins vingt
+15:43 -> quatre heures moins le quart
+15:44 -> quatre heures moins le quart
+15:45 -> quatre heures moins le quart
+15:46 -> quatre heures moins le quart
+15:47 -> quatre heures moins le quart
+15:48 -> quatre heures moins dix
+15:49 -> quatre heures moins dix
+15:50 -> quatre heures moins dix
+15:51 -> quatre heures moins dix
+15:52 -> quatre heures moins dix
+15:53 -> quatre heures moins cinq
+15:54 -> quatre heures moins cinq
+15:55 -> quatre heures moins cinq
+15:56 -> quatre heures moins cinq
+15:57 -> quatre heures moins cinq
+15:58 -> quatre heures
+15:59 -> quatre heures
+16:0 -> quatre heures
+16:1 -> quatre heures
+16:2 -> quatre heures
+16:3 -> quatre heures cinq
+16:4 -> quatre heures cinq
+16:5 -> quatre heures cinq
+16:6 -> quatre heures cinq
+16:7 -> quatre heures cinq
+16:8 -> quatre heures dix
+16:9 -> quatre heures dix
+16:10 -> quatre heures dix
+16:11 -> quatre heures dix
+16:12 -> quatre heures dix
+16:13 -> quatre heures et quart
+16:14 -> quatre heures et quart
+16:15 -> quatre heures et quart
+16:16 -> quatre heures et quart
+16:17 -> quatre heures et quart
+16:18 -> quatre heures vingt
+16:19 -> quatre heures vingt
+16:20 -> quatre heures vingt
+16:21 -> quatre heures vingt
+16:22 -> quatre heures vingt
+16:23 -> quatre heures vingt cinq
+16:24 -> quatre heures vingt cinq
+16:25 -> quatre heures vingt cinq
+16:26 -> quatre heures vingt cinq
+16:27 -> quatre heures vingt cinq
+16:28 -> quatre heures et demie
+16:29 -> quatre heures et demie
+16:30 -> quatre heures et demie
+16:31 -> quatre heures et demie
+16:32 -> quatre heures et demie
+16:33 -> cinq heures moins vingt cinq
+16:34 -> cinq heures moins vingt cinq
+16:35 -> cinq heures moins vingt cinq
+16:36 -> cinq heures moins vingt cinq
+16:37 -> cinq heures moins vingt cinq
+16:38 -> cinq heures moins vingt
+16:39 -> cinq heures moins vingt
+16:40 -> cinq heures moins vingt
+16:41 -> cinq heures moins vingt
+16:42 -> cinq heures moins vingt
+16:43 -> cinq heures moins le quart
+16:44 -> cinq heures moins le quart
+16:45 -> cinq heures moins le quart
+16:46 -> cinq heures moins le quart
+16:47 -> cinq heures moins le quart
+16:48 -> cinq heures moins dix
+16:49 -> cinq heures moins dix
+16:50 -> cinq heures moins dix
+16:51 -> cinq heures moins dix
+16:52 -> cinq heures moins dix
+16:53 -> cinq heures moins cinq
+16:54 -> cinq heures moins cinq
+16:55 -> cinq heures moins cinq
+16:56 -> cinq heures moins cinq
+16:57 -> cinq heures moins cinq
+16:58 -> cinq heures
+16:59 -> cinq heures
+17:0 -> cinq heures
+17:1 -> cinq heures
+17:2 -> cinq heures
+17:3 -> cinq heures cinq
+17:4 -> cinq heures cinq
+17:5 -> cinq heures cinq
+17:6 -> cinq heures cinq
+17:7 -> cinq heures cinq
+17:8 -> cinq heures dix
+17:9 -> cinq heures dix
+17:10 -> cinq heures dix
+17:11 -> cinq heures dix
+17:12 -> cinq heures dix
+17:13 -> cinq heures et quart
+17:14 -> cinq heures et quart
+17:15 -> cinq heures et quart
+17:16 -> cinq heures et quart
+17:17 -> cinq heures et quart
+17:18 -> cinq heures vingt
+17:19 -> cinq heures vingt
+17:20 -> cinq heures vingt
+17:21 -> cinq heures vingt
+17:22 -> cinq heures vingt
+17:23 -> cinq heures vingt cinq
+17:24 -> cinq heures vingt cinq
+17:25 -> cinq heures vingt cinq
+17:26 -> cinq heures vingt cinq
+17:27 -> cinq heures vingt cinq
+17:28 -> cinq heures et demie
+17:29 -> cinq heures et demie
+17:30 -> cinq heures et demie
+17:31 -> cinq heures et demie
+17:32 -> cinq heures et demie
+17:33 -> six heures moins vingt cinq
+17:34 -> six heures moins vingt cinq
+17:35 -> six heures moins vingt cinq
+17:36 -> six heures moins vingt cinq
+17:37 -> six heures moins vingt cinq
+17:38 -> six heures moins vingt
+17:39 -> six heures moins vingt
+17:40 -> six heures moins vingt
+17:41 -> six heures moins vingt
+17:42 -> six heures moins vingt
+17:43 -> six heures moins le quart
+17:44 -> six heures moins le quart
+17:45 -> six heures moins le quart
+17:46 -> six heures moins le quart
+17:47 -> six heures moins le quart
+17:48 -> six heures moins dix
+17:49 -> six heures moins dix
+17:50 -> six heures moins dix
+17:51 -> six heures moins dix
+17:52 -> six heures moins dix
+17:53 -> six heures moins cinq
+17:54 -> six heures moins cinq
+17:55 -> six heures moins cinq
+17:56 -> six heures moins cinq
+17:57 -> six heures moins cinq
+17:58 -> six heures
+17:59 -> six heures
+18:0 -> six heures
+18:1 -> six heures
+18:2 -> six heures
+18:3 -> six heures cinq
+18:4 -> six heures cinq
+18:5 -> six heures cinq
+18:6 -> six heures cinq
+18:7 -> six heures cinq
+18:8 -> six heures dix
+18:9 -> six heures dix
+18:10 -> six heures dix
+18:11 -> six heures dix
+18:12 -> six heures dix
+18:13 -> six heures et quart
+18:14 -> six heures et quart
+18:15 -> six heures et quart
+18:16 -> six heures et quart
+18:17 -> six heures et quart
+18:18 -> six heures vingt
+18:19 -> six heures vingt
+18:20 -> six heures vingt
+18:21 -> six heures vingt
+18:22 -> six heures vingt
+18:23 -> six heures vingt cinq
+18:24 -> six heures vingt cinq
+18:25 -> six heures vingt cinq
+18:26 -> six heures vingt cinq
+18:27 -> six heures vingt cinq
+18:28 -> six heures et demie
+18:29 -> six heures et demie
+18:30 -> six heures et demie
+18:31 -> six heures et demie
+18:32 -> six heures et demie
+18:33 -> sept heures moins vingt cinq
+18:34 -> sept heures moins vingt cinq
+18:35 -> sept heures moins vingt cinq
+18:36 -> sept heures moins vingt cinq
+18:37 -> sept heures moins vingt cinq
+18:38 -> sept heures moins vingt
+18:39 -> sept heures moins vingt
+18:40 -> sept heures moins vingt
+18:41 -> sept heures moins vingt
+18:42 -> sept heures moins vingt
+18:43 -> sept heures moins le quart
+18:44 -> sept heures moins le quart
+18:45 -> sept heures moins le quart
+18:46 -> sept heures moins le quart
+18:47 -> sept heures moins le quart
+18:48 -> sept heures moins dix
+18:49 -> sept heures moins dix
+18:50 -> sept heures moins dix
+18:51 -> sept heures moins dix
+18:52 -> sept heures moins dix
+18:53 -> sept heures moins cinq
+18:54 -> sept heures moins cinq
+18:55 -> sept heures moins cinq
+18:56 -> sept heures moins cinq
+18:57 -> sept heures moins cinq
+18:58 -> sept heures
+18:59 -> sept heures
+19:0 -> sept heures
+19:1 -> sept heures
+19:2 -> sept heures
+19:3 -> sept heures cinq
+19:4 -> sept heures cinq
+19:5 -> sept heures cinq
+19:6 -> sept heures cinq
+19:7 -> sept heures cinq
+19:8 -> sept heures dix
+19:9 -> sept heures dix
+19:10 -> sept heures dix
+19:11 -> sept heures dix
+19:12 -> sept heures dix
+19:13 -> sept heures et quart
+19:14 -> sept heures et quart
+19:15 -> sept heures et quart
+19:16 -> sept heures et quart
+19:17 -> sept heures et quart
+19:18 -> sept heures vingt
+19:19 -> sept heures vingt
+19:20 -> sept heures vingt
+19:21 -> sept heures vingt
+19:22 -> sept heures vingt
+19:23 -> sept heures vingt cinq
+19:24 -> sept heures vingt cinq
+19:25 -> sept heures vingt cinq
+19:26 -> sept heures vingt cinq
+19:27 -> sept heures vingt cinq
+19:28 -> sept heures et demie
+19:29 -> sept heures et demie
+19:30 -> sept heures et demie
+19:31 -> sept heures et demie
+19:32 -> sept heures et demie
+19:33 -> huit heures moins vingt cinq
+19:34 -> huit heures moins vingt cinq
+19:35 -> huit heures moins vingt cinq
+19:36 -> huit heures moins vingt cinq
+19:37 -> huit heures moins vingt cinq
+19:38 -> huit heures moins vingt
+19:39 -> huit heures moins vingt
+19:40 -> huit heures moins vingt
+19:41 -> huit heures moins vingt
+19:42 -> huit heures moins vingt
+19:43 -> huit heures moins le quart
+19:44 -> huit heures moins le quart
+19:45 -> huit heures moins le quart
+19:46 -> huit heures moins le quart
+19:47 -> huit heures moins le quart
+19:48 -> huit heures moins dix
+19:49 -> huit heures moins dix
+19:50 -> huit heures moins dix
+19:51 -> huit heures moins dix
+19:52 -> huit heures moins dix
+19:53 -> huit heures moins cinq
+19:54 -> huit heures moins cinq
+19:55 -> huit heures moins cinq
+19:56 -> huit heures moins cinq
+19:57 -> huit heures moins cinq
+19:58 -> huit heures
+19:59 -> huit heures
+20:0 -> huit heures
+20:1 -> huit heures
+20:2 -> huit heures
+20:3 -> huit heures cinq
+20:4 -> huit heures cinq
+20:5 -> huit heures cinq
+20:6 -> huit heures cinq
+20:7 -> huit heures cinq
+20:8 -> huit heures dix
+20:9 -> huit heures dix
+20:10 -> huit heures dix
+20:11 -> huit heures dix
+20:12 -> huit heures dix
+20:13 -> huit heures et quart
+20:14 -> huit heures et quart
+20:15 -> huit heures et quart
+20:16 -> huit heures et quart
+20:17 -> huit heures et quart
+20:18 -> huit heures vingt
+20:19 -> huit heures vingt
+20:20 -> huit heures vingt
+20:21 -> huit heures vingt
+20:22 -> huit heures vingt
+20:23 -> huit heures vingt cinq
+20:24 -> huit heures vingt cinq
+20:25 -> huit heures vingt cinq
+20:26 -> huit heures vingt cinq
+20:27 -> huit heures vingt cinq
+20:28 -> huit heures et demie
+20:29 -> huit heures et demie
+20:30 -> huit heures et demie
+20:31 -> huit heures et demie
+20:32 -> huit heures et demie
+20:33 -> neuf heures moins vingt cinq
+20:34 -> neuf heures moins vingt cinq
+20:35 -> neuf heures moins vingt cinq
+20:36 -> neuf heures moins vingt cinq
+20:37 -> neuf heures moins vingt cinq
+20:38 -> neuf heures moins vingt
+20:39 -> neuf heures moins vingt
+20:40 -> neuf heures moins vingt
+20:41 -> neuf heures moins vingt
+20:42 -> neuf heures moins vingt
+20:43 -> neuf heures moins le quart
+20:44 -> neuf heures moins le quart
+20:45 -> neuf heures moins le quart
+20:46 -> neuf heures moins le quart
+20:47 -> neuf heures moins le quart
+20:48 -> neuf heures moins dix
+20:49 -> neuf heures moins dix
+20:50 -> neuf heures moins dix
+20:51 -> neuf heures moins dix
+20:52 -> neuf heures moins dix
+20:53 -> neuf heures moins cinq
+20:54 -> neuf heures moins cinq
+20:55 -> neuf heures moins cinq
+20:56 -> neuf heures moins cinq
+20:57 -> neuf heures moins cinq
+20:58 -> neuf heures
+20:59 -> neuf heures
+21:0 -> neuf heures
+21:1 -> neuf heures
+21:2 -> neuf heures
+21:3 -> neuf heures cinq
+21:4 -> neuf heures cinq
+21:5 -> neuf heures cinq
+21:6 -> neuf heures cinq
+21:7 -> neuf heures cinq
+21:8 -> neuf heures dix
+21:9 -> neuf heures dix
+21:10 -> neuf heures dix
+21:11 -> neuf heures dix
+21:12 -> neuf heures dix
+21:13 -> neuf heures et quart
+21:14 -> neuf heures et quart
+21:15 -> neuf heures et quart
+21:16 -> neuf heures et quart
+21:17 -> neuf heures et quart
+21:18 -> neuf heures vingt
+21:19 -> neuf heures vingt
+21:20 -> neuf heures vingt
+21:21 -> neuf heures vingt
+21:22 -> neuf heures vingt
+21:23 -> neuf heures vingt cinq
+21:24 -> neuf heures vingt cinq
+21:25 -> neuf heures vingt cinq
+21:26 -> neuf heures vingt cinq
+21:27 -> neuf heures vingt cinq
+21:28 -> neuf heures et demie
+21:29 -> neuf heures et demie
+21:30 -> neuf heures et demie
+21:31 -> neuf heures et demie
+21:32 -> neuf heures et demie
+21:33 -> dix heures moins vingt cinq
+21:34 -> dix heures moins vingt cinq
+21:35 -> dix heures moins vingt cinq
+21:36 -> dix heures moins vingt cinq
+21:37 -> dix heures moins vingt cinq
+21:38 -> dix heures moins vingt
+21:39 -> dix heures moins vingt
+21:40 -> dix heures moins vingt
+21:41 -> dix heures moins vingt
+21:42 -> dix heures moins vingt
+21:43 -> dix heures moins le quart
+21:44 -> dix heures moins le quart
+21:45 -> dix heures moins le quart
+21:46 -> dix heures moins le quart
+21:47 -> dix heures moins le quart
+21:48 -> dix heures moins dix
+21:49 -> dix heures moins dix
+21:50 -> dix heures moins dix
+21:51 -> dix heures moins dix
+21:52 -> dix heures moins dix
+21:53 -> dix heures moins cinq
+21:54 -> dix heures moins cinq
+21:55 -> dix heures moins cinq
+21:56 -> dix heures moins cinq
+21:57 -> dix heures moins cinq
+21:58 -> dix heures
+21:59 -> dix heures
+22:0 -> dix heures
+22:1 -> dix heures
+22:2 -> dix heures
+22:3 -> dix heures cinq
+22:4 -> dix heures cinq
+22:5 -> dix heures cinq
+22:6 -> dix heures cinq
+22:7 -> dix heures cinq
+22:8 -> dix heures dix
+22:9 -> dix heures dix
+22:10 -> dix heures dix
+22:11 -> dix heures dix
+22:12 -> dix heures dix
+22:13 -> dix heures et quart
+22:14 -> dix heures et quart
+22:15 -> dix heures et quart
+22:16 -> dix heures et quart
+22:17 -> dix heures et quart
+22:18 -> dix heures vingt
+22:19 -> dix heures vingt
+22:20 -> dix heures vingt
+22:21 -> dix heures vingt
+22:22 -> dix heures vingt
+22:23 -> dix heures vingt cinq
+22:24 -> dix heures vingt cinq
+22:25 -> dix heures vingt cinq
+22:26 -> dix heures vingt cinq
+22:27 -> dix heures vingt cinq
+22:28 -> dix heures et demie
+22:29 -> dix heures et demie
+22:30 -> dix heures et demie
+22:31 -> dix heures et demie
+22:32 -> dix heures et demie
+22:33 -> onze heures moins vingt cinq
+22:34 -> onze heures moins vingt cinq
+22:35 -> onze heures moins vingt cinq
+22:36 -> onze heures moins vingt cinq
+22:37 -> onze heures moins vingt cinq
+22:38 -> onze heures moins vingt
+22:39 -> onze heures moins vingt
+22:40 -> onze heures moins vingt
+22:41 -> onze heures moins vingt
+22:42 -> onze heures moins vingt
+22:43 -> onze heures moins le quart
+22:44 -> onze heures moins le quart
+22:45 -> onze heures moins le quart
+22:46 -> onze heures moins le quart
+22:47 -> onze heures moins le quart
+22:48 -> onze heures moins dix
+22:49 -> onze heures moins dix
+22:50 -> onze heures moins dix
+22:51 -> onze heures moins dix
+22:52 -> onze heures moins dix
+22:53 -> onze heures moins cinq
+22:54 -> onze heures moins cinq
+22:55 -> onze heures moins cinq
+22:56 -> onze heures moins cinq
+22:57 -> onze heures moins cinq
+22:58 -> onze heures
+22:59 -> onze heures
+23:0 -> onze heures
+23:1 -> onze heures
+23:2 -> onze heures
+23:3 -> onze heures cinq
+23:4 -> onze heures cinq
+23:5 -> onze heures cinq
+23:6 -> onze heures cinq
+23:7 -> onze heures cinq
+23:8 -> onze heures dix
+23:9 -> onze heures dix
+23:10 -> onze heures dix
+23:11 -> onze heures dix
+23:12 -> onze heures dix
+23:13 -> onze heures et quart
+23:14 -> onze heures et quart
+23:15 -> onze heures et quart
+23:16 -> onze heures et quart
+23:17 -> onze heures et quart
+23:18 -> onze heures vingt
+23:19 -> onze heures vingt
+23:20 -> onze heures vingt
+23:21 -> onze heures vingt
+23:22 -> onze heures vingt
+23:23 -> onze heures vingt cinq
+23:24 -> onze heures vingt cinq
+23:25 -> onze heures vingt cinq
+23:26 -> onze heures vingt cinq
+23:27 -> onze heures vingt cinq
+23:28 -> onze heures et demie
+23:29 -> onze heures et demie
+23:30 -> onze heures et demie
+23:31 -> onze heures et demie
+23:32 -> onze heures et demie
+23:33 -> minuit moins vingt cinq
+23:34 -> minuit moins vingt cinq
+23:35 -> minuit moins vingt cinq
+23:36 -> minuit moins vingt cinq
+23:37 -> minuit moins vingt cinq
+23:38 -> minuit moins vingt
+23:39 -> minuit moins vingt
+23:40 -> minuit moins vingt
+23:41 -> minuit moins vingt
+23:42 -> minuit moins vingt
+23:43 -> minuit moins le quart
+23:44 -> minuit moins le quart
+23:45 -> minuit moins le quart
+23:46 -> minuit moins le quart
+23:47 -> minuit moins le quart
+23:48 -> minuit moins dix
+23:49 -> minuit moins dix
+23:50 -> minuit moins dix
+23:51 -> minuit moins dix
+23:52 -> minuit moins dix
+23:53 -> minuit moins cinq
+23:54 -> minuit moins cinq
+23:55 -> minuit moins cinq
+23:56 -> minuit moins cinq
+23:57 -> minuit moins cinq
+23:58 -> minuit

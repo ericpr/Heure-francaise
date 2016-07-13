@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+void fuzzy_time_to_words(int hours, int minutes, char* words, size_t length);
+int main()
+{
+  int h,m;
+  char buf[512];
+  for (h=0;h<24;h++) {
+    for (m=0;m<60;m++){
+      fuzzy_time_to_words(h,m,buf,sizeof(buf));
+      printf ("%d:%d -> %s\n",h,m,buf);
+    }
+  }
+    
+}

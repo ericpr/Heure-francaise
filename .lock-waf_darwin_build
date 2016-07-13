@@ -1,0 +1,8 @@
+argv = ['/Users/eric/pebble-dev/PebbleSDK-2.1.1/Pebble/waf', 'configure', 'build']
+environ = {'TERM_SESSION_ID': '6CD87729-65A1-4209-B536-CDFFA2D11735', 'PYTHONPATH': '/Users/eric/pebble-dev/PebbleSDK-2.1.1/bin/../.env/lib/python2.7/site-packages', 'SSH_AUTH_SOCK': '/tmp/launch-0C2n8g/Listeners', 'TERM_PROGRAM_VERSION': '326', 'SHELL': '/bin/bash', 'LOGNAME': 'eric', 'USER': 'eric', 'HOME': '/Users/eric', 'PATH': '/Users/eric/pebble-dev/PebbleSDK-2.1.1/arm-cs-tools/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/usr/local/noweb:/Users/eric/pebble-dev/PebbleSDK-2.1.1/bin', 'DISPLAY': '/tmp/launch-qDGtpC/org.macosforge.xquartz:0', 'TMPDIR': '/var/folders/_r/rj8z35tx5h7brtkx60pq7mmr0000gn/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'LANG': 'fr_FR.UTF-8', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/tmp/launch-qRXPPL/Render', 'SHLVL': '2', 'MACOSX_DEPLOYMENT_TARGET': '10.5', '__CF_USER_TEXT_ENCODING': '0x1F5:0:1', 'PWD': '/Users/eric/pebble-dev/fuzzy_time_fr', '_': '/Users/eric/pebble-dev/PebbleSDK-2.1.1/Pebble/waf', 'MANPATH': ':/usr/local/noweb/man', '__CHECKFIX1436934': '1'}
+files = ['/Users/eric/pebble-dev/fuzzy_time_fr/wscript']
+hash = 4672844372416070989
+options = {'files': '', 'jobs': 8, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
+out_dir = '/Users/eric/pebble-dev/fuzzy_time_fr/build'
+run_dir = '/Users/eric/pebble-dev/fuzzy_time_fr'
+top_dir = '/Users/eric/pebble-dev/fuzzy_time_fr'
