@@ -1,5 +1,6 @@
 #include "num2words.h"
 #include "string.h"
+//#include "stdio.h"
 
 static const char* const UNITES[] = {
   "zero",
@@ -39,7 +40,29 @@ static const char* const DIZAINES[] = {
   "quatre-vingt",
   "quatre-vingt-dix"
 };
-
+static const char* const JOUR[]= {
+  "Dimanche",
+  "Lundi",
+  "Mardi",
+  "Mercredi",
+  "Jeudi",
+  "Vendredi",
+  "Samedi",  
+};
+static const char* const MOIS[]= {
+  "janvier",
+  "février",
+  "mars",
+  "avril",
+  "mai",
+  "juin",
+  "juillet",
+  "août",
+  "septembre",
+  "octobre",
+  "novembre",
+  "décembre",
+};
 static const char* STR_ESPACE = " ";
 static const char* STR_HEURE = "heure";
 static const char* STR_HEURES = "heures";
@@ -75,7 +98,8 @@ static size_t append_number(char* words, int num) {
   return len;
 }
 
-static size_t append_string(char* buffer, const size_t length, const char* str) {
+static size_t append_string(char* buffer, const size_t length, const char* str) 
+{
   size_t written = strlen(str);
   if (written > length ){
     written = length;
@@ -83,6 +107,15 @@ static size_t append_string(char* buffer, const size_t length, const char* str) 
   strncat(buffer, str, written);
   return written;
 }
+
+//static size_t append_digit(char* buffer, const size_t length, int num) 
+//{
+//  if (num == 1) 
+//    snprintf(buffer, length, "1er");
+//  else   
+//    snprintf(buffer, length, "%d", num);
+//  return written;
+//}
 static size_t append_hour( char * words, const size_t length, int fuzzy_hours)
 {
   size_t remaining=length;
@@ -159,3 +192,20 @@ void fuzzy_time_to_words(int hours, int minutes, char* words,  const size_t leng
 }
 
 
+void fuzzy_date_to_words(int dow, int day, int month, int year, char* words,  const size_t length) 
+{
+  size_t remaining=length;
+  memset(words, '\0',length);
+  remaining -= append_string(words, remaining, JOUR[dow]);
+  remaining -= append_string(words, remaining, STR_ESPACE);
+  if (day ==1)
+    remaining -= append_string(words, remaining, "premier");
+  else   
+    remaining -= append_number(words, day);
+  remaining -= append_string(words, remaining, STR_ESPACE);  
+  remaining -= append_string(words, remaining, MOIS[month]);  
+  //remaining -= append_digits(words, remaining, day);  
+  //remaining -= append_string(words, remaining, STR_ESPACE);
+  //remaining -= append_string(words, remaining, MOIS[month]);  
+}
+  
